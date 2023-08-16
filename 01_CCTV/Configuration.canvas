@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"OSD\n[[Camera_OSD.png]]","id":"ea00e941dc874f9d","x":18,"y":-392,"width":250,"height":60},
+		{"type":"text","text":"Image floue de la caméra de nuit\n[[[Tuto]Comment corriger le flou et le glissement lors de la prévisualisation de l'appareil photo la nuit.pdf]]","id":"565ffc5fb5cfa02b","x":12,"y":-288,"width":331,"height":196},
+		{"type":"text","text":"LED/ColorVU\n[[[Tuto]Comment configurer le LED pour la caméra ColorVu.pdf]]","id":"6b29ee12c54e3100","x":16,"y":-48,"width":307,"height":90},
+		{"type":"text","text":"NVR","id":"cf8eaa8a71ae9054","x":880,"y":558,"width":250,"height":60},
+		{"type":"text","text":"HC/HPP","id":"f420758d63df514d","x":880,"y":647,"width":256,"height":65},
+		{"type":"text","text":"HikCentral","id":"358461fd54680ece","x":880,"y":782,"width":250,"height":60},
+		{"type":"text","text":"Alarme","id":"9f45388765eeaa5f","x":880,"y":469,"width":250,"height":60},
+		{"type":"text","text":"3rd Part","id":"5f9efe70cb6dd2e8","x":880,"y":896,"width":256,"height":60},
+		{"type":"text","text":"Evénement\n[[[Tuto]Paramètres de détection d'intrusion et franchissement de ligne.pdf]]","id":"15fc584ae6105a16","x":-342,"y":300,"width":345,"height":110},
+		{"type":"text","text":"Communication externe ","id":"f982d214383f837d","x":880,"y":320,"width":250,"height":60},
+		{"type":"text","text":"Image/vidéo","id":"ebf37f6a57c3bfa5","x":-342,"y":-392,"width":250,"height":60},
+		{"id":"234cc53122e066f3","x":472,"y":-392,"width":250,"height":60,"type":"text","text":"Enregistrment"},
+		{"type":"text","text":"Enregistrement sur la caméra\n[[[Tuto] Comment enregistrer dans la carte TF avec HIKVISION IPC.pdf]]","id":"3b239f77b0a7e230","x":793,"y":-402,"width":337,"height":80}
+	],
+	"edges":[
+		{"id":"c3ddcba0e5ac5d36","fromNode":"ebf37f6a57c3bfa5","fromSide":"right","toNode":"ea00e941dc874f9d","toSide":"left"},
+		{"id":"21c7b2dbd1c58e64","fromNode":"ebf37f6a57c3bfa5","fromSide":"right","toNode":"565ffc5fb5cfa02b","toSide":"left"},
+		{"id":"79b4344c6242355d","fromNode":"ebf37f6a57c3bfa5","fromSide":"right","toNode":"6b29ee12c54e3100","toSide":"left"},
+		{"id":"1d1d696ecc861172","fromNode":"234cc53122e066f3","fromSide":"right","toNode":"3b239f77b0a7e230","toSide":"left"}
+	]
+}

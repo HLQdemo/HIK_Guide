@@ -1,0 +1,1 @@
+installer obsidain pour utiliser ce package

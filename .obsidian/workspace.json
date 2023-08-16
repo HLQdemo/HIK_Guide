@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "c9bdcef8fbcb41e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9f74cab39dfb2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79a528a1120aab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71549c50fbb5d078",
+    "type": "split",
+    "children": [
+      {
+        "id": "407a9a7a4c7d441b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e6b3cd065770db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e45a1cbaec5eb0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5103efc7470e6c6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da8ec521f326bc06",
+    "type": "split",
+    "children": [
+      {
+        "id": "076f81d7e99affc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6d1ad7aafa969e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c67684a8870025b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c01da2d0c7155753",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "015d9600dabc03a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_README.md"
+              }
+            }
+          },
+          {
+            "id": "ea10131fa23cd330",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "71e6b3cd065770db",
+  "lastOpenFiles": [
+    "00_Tool_ConnaissanceBasique/Tool/Tool.md",
+    "01_CCTV/Configuration.canvas",
+    "01_CCTV/RoadMap.canvas",
+    "01_CCTV/Dépanner.canvas",
+    "10_IVMS",
+    "04_Intercom/Roadmap.canvas",
+    "01_CCTV/IMG_Video/Camera_Synchronisation.png",
+    "01_CCTV/IMG_Video/NVR_Synchronisation.png",
+    "01_CCTV/01_Camera/Camera_guide.md",
+    "01_CCTV",
+    "00_Tool_ConnaissanceBasique/Tuto_commun/[Tuto]Comment activer un appareil et créer le mdp.pdf",
+    "05_Intercom/Tuto_PDF/[Tuto]Comment ajouter un module de badge.pdf",
+    "05_Intercom/IMG_Video/Intercom_SIP_produit.png",
+    "05_Intercom/IMG_Video/intercom_SIP.png",
+    "05_Intercom/IMG_Video/intercom_people_room.png",
+    "05_Intercom/IMG_Video/Intercom_NO.png",
+    "05_Intercom/IMG_Video/Intercom_NC.png",
+    "05_Intercom/IMG_Video/Intercom_KD8003_volume.png",
+    "05_Intercom/IMG_Video/Intercom_KD8003_langue.png",
+    "05_Intercom/IMG_Video/Intercom_etat.jpg",
+    "05_Intercom/Tuto_PDF/[Tuto]Comment ajouter un portier extension au portier principal .pdf",
+    "05_Intercom/Tuto_PDF/[Tuto]Comment ajouter un équipement sur Hik-connect.pdf",
+    "05_Intercom/Tuto_PDF/Comment ajouter un équipement sur Hik-connect.pdf",
+    "05_Intercom/Tuto_PDF/[Tuto]Comment ajouter une IPC dans la station intérieure.pdf",
+    "05_Intercom/Tuto_PDF/Comment ajouter une IPC dans la station intérieure.pdf",
+    "05_Intercom/Tuto_PDF/[Tuto]Comment installer l'APP sur la station intérieure Android.pdf",
+    "Comment configurer le portier et Station intérieure.pdf.md",
+    "05_Intercom/Roadmap.canvas",
+    "未命名.md",
+    "01_Camera/Tuto_MD/Comment activer la caméra et créer son mdp.md",
+    "Comment utiliser ce package.md",
+    "00_Tool_ConnaissanceBasique/Tool.md",
+    "2023-08-07.md",
+    "未命名 1.md"
+  ]
+}

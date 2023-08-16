@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"Installation de nouveaux équipements","id":"22c2f9de76d7c7b4","x":-713,"y":-371,"width":300,"height":88},
+		{"type":"text","text":"Récupération/maintenance d'équipements usagés","id":"7910c95c1947a8f3","x":-720,"y":-129,"width":307,"height":96},
+		{"type":"text","text":"Reset mdp\n[[[Tuto]Comment réinitialiser le mot de passe.pdf]]","id":"b2538344d7692ae2","x":-320,"y":-131,"width":297,"height":101},
+		{"type":"text","text":"Activation & Créer mdp\n1.[[[Tuto]Comment activer un appareil et créer le mdp.pdf]]\n\n2.[[[Tuto]Comment changer IP adresse de votre PC et les produits de Hikvision.pdf]]\n\n3.Plug and play","id":"225cc256d37dd284","x":-320,"y":-449,"width":322,"height":244},
+		{"type":"text","text":"Mettre à jour\n[[[Tuto]Comment mettre à jour le FW.pdf]]","id":"9e36644a5426c8f6","x":80,"y":-257,"width":260,"height":105},
+		{"type":"text","text":"Réglage de l'heure/\nSynchronisation\n[[Camera_Synchronisation.png]]\n[[NVR_Synchronisation.png]]\n\n","id":"d6b5c6c156574ef6","x":460,"y":-287,"width":300,"height":153},
+		{"type":"text","text":"[[Configuration.canvas|Configuration]]\nImage\nEnregistrement\nPreset\nEntrée/ Sortie d'alarme\nConnecter au platform","id":"9b6055115479902c","x":450,"y":-30,"width":320,"height":260}
+	],
+	"edges":[
+		{"id":"0b277dffdee74acb","fromNode":"22c2f9de76d7c7b4","fromSide":"right","toNode":"225cc256d37dd284","toSide":"left"},
+		{"id":"30de7aff3d933806","fromNode":"7910c95c1947a8f3","fromSide":"right","toNode":"b2538344d7692ae2","toSide":"left"},
+		{"id":"1de2a47a4bd803d3","fromNode":"225cc256d37dd284","fromSide":"right","toNode":"9e36644a5426c8f6","toSide":"left"},
+		{"id":"cc02c4fa6e9d81a5","fromNode":"b2538344d7692ae2","fromSide":"right","toNode":"9e36644a5426c8f6","toSide":"left"},
+		{"id":"b3a2e5abc5f9bf2e","fromNode":"9e36644a5426c8f6","fromSide":"right","toNode":"d6b5c6c156574ef6","toSide":"left"},
+		{"id":"10757a8dae2ec15d","fromNode":"d6b5c6c156574ef6","fromSide":"bottom","toNode":"9b6055115479902c","toSide":"top"}
+	]
+}

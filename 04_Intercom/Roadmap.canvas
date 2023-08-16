@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"type":"text","text":"Station intérieur\n[[[Tuto]Comment configurer le portier et Station intérieure.pdf]]","id":"9b10821b688c1e74","x":80,"y":-215,"width":250,"height":115,"color":"1"},
+		{"type":"text","text":"Extension extérieur\n[[[Tuto]Comment ajouter un portier extension au portier principal .pdf]]","id":"b1b4c90363fdb278","x":-380,"y":-29,"width":250,"height":129,"color":"1"},
+		{"type":"text","text":"Extension intérieur\n[[[Tuto]Comment configurer l'extension intérieure sur iVMS-4200.pdf]]","id":"a1adbcfb9c9f79c0","x":80,"y":-40,"width":250,"height":160,"color":"1"},
+		{"type":"text","text":"IP caméra\n[[[Tuto]Comment ajouter une IPC dans la station intérieure.pdf]]","id":"473d56b63d776f72","x":420,"y":-20,"width":250,"height":120},
+		{"type":"text","text":"Hik Connect\n[[[Tuto]Comment ajouter un équipement sur Hik-connect.pdf]]","id":"d93da2cc293cab29","x":427,"y":-215,"width":250,"height":115},
+		{"type":"text","text":"DoorPhone","id":"f76ea24d09364692","x":-380,"y":160,"width":250,"height":60},
+		{"type":"text","text":"Bouton EXIT","id":"728ea6df73b0a6fe","x":-781,"y":80,"width":250,"height":60},
+		{"type":"text","text":"Porte\n[[[Tuto]Comment mettre deux portes sur une station extérieure.pdf]]\n[[Intercom_NO.png]]\n[[Intercom_NC.png]]","id":"3d0d5d21e87fd92f","x":-761,"y":-190,"width":250,"height":170},
+		{"type":"text","text":"Module 3 in 1","id":"623d5e4bf8cf9b6e","x":-750,"y":-287,"width":250,"height":60},
+		{"type":"text","text":"MAJ\n[[[Tuto]Comment mettre à jour le FW sur IVMS4200.pdf]]","id":"a29640ccbf22868a","x":-100,"y":-640,"width":280,"height":100},
+		{"type":"text","text":"Station extérieur\n[[[Tuto]Comment ajouter une seule station intérieure à la station de porte.pdf]]","id":"c488b5596b4a9e30","x":-380,"y":-257,"width":250,"height":157,"color":"1"},
+		{"type":"text","text":"Sonneries personnalisées\n[[[Tuto]Comment configurer la music sur la station extérieure.pdf]]","id":"0337a39da4ba871f","x":-225,"y":-440,"width":250,"height":120},
+		{"type":"text","text":"APP\n[[[Tuto]Comment installer l'APP sur la station intérieure Android.pdf]]","id":"dfe56927151b2c8b","x":420,"y":-410,"width":250,"height":123},
+		{"type":"text","text":"Name Tag\n[[[Tuto]Comment ajouter un module name tag.pdf]]","id":"2a4fd52b9b867319","x":-750,"y":-680,"width":250,"height":100},
+		{"type":"text","text":"Mot de passe","id":"f9ee4b87d38de64d","x":-750,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"Badge\n[[[Tuto]Comment ajouter un module de badge.pdf]]","id":"c9a07f61b1c99a52","x":-750,"y":-460,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"91aee7d0501a0b8f","fromNode":"c488b5596b4a9e30","fromSide":"right","toNode":"9b10821b688c1e74","toSide":"left"},
+		{"id":"5c45f8a472cf4c06","fromNode":"c488b5596b4a9e30","fromSide":"bottom","toNode":"b1b4c90363fdb278","toSide":"top"},
+		{"id":"42974d18a4aae456","fromNode":"9b10821b688c1e74","fromSide":"bottom","toNode":"a1adbcfb9c9f79c0","toSide":"top"},
+		{"id":"62d2ea734774f98c","fromNode":"9b10821b688c1e74","fromSide":"right","toNode":"d93da2cc293cab29","toSide":"left"},
+		{"id":"8ddaf4a7805e6fd9","fromNode":"f76ea24d09364692","fromSide":"right","toNode":"9b10821b688c1e74","toSide":"left"},
+		{"id":"5374dc359e2c126a","fromNode":"473d56b63d776f72","fromSide":"left","toNode":"9b10821b688c1e74","toSide":"right"},
+		{"id":"267eac2d1cad8620","fromNode":"c488b5596b4a9e30","fromSide":"left","toNode":"3d0d5d21e87fd92f","toSide":"right"},
+		{"id":"431033974ba5b1f1","fromNode":"c488b5596b4a9e30","fromSide":"left","toNode":"728ea6df73b0a6fe","toSide":"right"},
+		{"id":"c2a23b95f3240db8","fromNode":"c488b5596b4a9e30","fromSide":"top","toNode":"0337a39da4ba871f","toSide":"bottom"},
+		{"id":"3c16801880ba1ffa","fromNode":"9b10821b688c1e74","fromSide":"right","toNode":"dfe56927151b2c8b","toSide":"left"},
+		{"id":"1a6dfe8eb1707788","fromNode":"2a4fd52b9b867319","fromSide":"right","toNode":"c488b5596b4a9e30","toSide":"left"},
+		{"id":"1593b87a002696aa","fromNode":"c9a07f61b1c99a52","fromSide":"right","toNode":"c488b5596b4a9e30","toSide":"left"}
+	]
+}

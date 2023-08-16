@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"LIVE VIEW","id":"53ea053429f74694","x":-880,"y":-760,"width":250,"height":60},
+		{"type":"text","text":"Image floue de la caméra de nuit\n[[[Tuto]Comment corriger le flou et le glissement lors de la prévisualisation de l'appareil photo la nuit.pdf]]","id":"b672606e49dfce5f","x":-526,"y":-828,"width":331,"height":196},
+		{"type":"text","text":"Enregistrement","id":"007b81aea53b6f7e","x":-880,"y":-390,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"df1c0eb0effde0b4","fromNode":"53ea053429f74694","fromSide":"right","toNode":"b672606e49dfce5f","toSide":"left"}
+	]
+}
